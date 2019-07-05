@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../PizzaOrderingSystem">
+      <sourceFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/johnnyfreeman/laravel-custom-relation" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/laracasts/utilities" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/laravel/passport" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/league/event" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/league/oauth2-server" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/mtdowling/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/phpunit/phpunit-mock-objects" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/psr-http-message-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/../PizzaOrderingSystem/vendor/zendframework/zend-diactoros" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
